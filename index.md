@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+My Githib repository: Welcome to my blog
 ---
-
